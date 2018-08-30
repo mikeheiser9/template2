@@ -1,0 +1,71 @@
+html, body {
+    background-color: #e3e3e3 !important;
+    color: #000001;
+    width: 100%;
+}
+
+.article-containter {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.section-content {
+    background: #fffffe;
+    padding: 30px;
+}
+
+.advert {
+    margin-top: 30px;
+    margin-left: 43%;
+}
+
+.title {
+    font-size: 48px;
+    text-align: left;
+}
+
+.discount {
+    font-size: 30px;
+    color: red;
+    font-weight: 700;
+    margin-left: 21%;
+}
+
+#top-bottom {
+    border-bottom: 5px double black;
+}
+
+.artImg {
+    width: 40%;
+    float: left;
+    margin-top: 30px;
+    border: 5px solid black;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.text-body {
+    margin-top: 30px;
+}
+
+#bottom-link {
+    margin-top: 25px;
+    color: navy !important;
+}
+
+.bottomBtn {
+    background-color: red;
+    width: 75%;
+    padding: 15px;
+    color: white;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 70%;
+    font-weight: 700;
+}
+
+.copyright-bottom {
+    margin-top: 20px;
+    font-weight: 800;
+    margin-left: 35%;
+}
